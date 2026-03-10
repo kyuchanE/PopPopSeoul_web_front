@@ -1,0 +1,1 @@
+export const AppStoreUrl = "https://apps.apple.com/app/id6744961871";
