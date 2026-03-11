@@ -6,6 +6,8 @@
 
 <img src="image/poppop_seoul_info.png" alt="PopPop Seoul 소개 이미지" />
 
+### 👉 [PopPop Seoul 웹 페이지 이동](https://poppop-seoul.developer-chanq.xyz/)
+
 ## ✨ 프로젝트 개요
 
 - `React + TypeScript + Vite` 기반의 프론트엔드 프로젝트입니다.
@@ -18,7 +20,7 @@
 
 ```text
 poppop-seoul-react/
-├─ public/                # 정적 리소스(APK, QR 이미지, 아이콘 등)
+├─ public/                # 정적 리소스
 ├─ scripts/               # 빌드 전 실행되는 유틸 스크립트
 ├─ src/
 │  ├─ assets/             # 랜딩 페이지 이미지 및 배지/버튼 리소스
